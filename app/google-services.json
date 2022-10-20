@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "242830376791",
+    "project_id": "location-reminder-fd528",
+    "storage_bucket": "location-reminder-fd528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242830376791:android:892a94c9e7318b5c918812",
+        "android_client_info": {
+          "package_name": "com.egyptfwd.locationreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242830376791-jn098asji1bdugqg9et6fcr8fu25ig8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egyptfwd.locationreminder",
+            "certificate_hash": "61d5757b19ccdd4f0a69ecd9176c94ec66cb219d"
+          }
+        },
+        {
+          "client_id": "242830376791-d99r7tf8cgm8suaepera09isn59ck5uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCql5me1NwBx5Juno1xebuE7Gkqf15Aopc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242830376791-d99r7tf8cgm8suaepera09isn59ck5uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
